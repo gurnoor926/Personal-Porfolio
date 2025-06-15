@@ -8,7 +8,7 @@ I’m **Gurnoor Singh**, a passionate and aspiring web developer who enjoys buil
 
 ## 🚀 Live Demo
 
-👉 [Visit My Portfolio](https://gurnoor926.github.io/)
+👉 [Visit My Portfolio]([https://gurnoor926.github.io/Personal-Porfolio/])
 
 ## 📁 Project Structure
 📦 Portfolio Website
